@@ -1,0 +1,7 @@
+.OneRow {
+	color: white;
+}
+
+.OneRow>span {
+	margin: 10px;
+}
